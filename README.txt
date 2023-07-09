@@ -1,0 +1,1 @@
+In this project I worked with the ham/spam dataset, when I implemented the LogisticRegression class and plotted the ROC CURVE in order to choose the optimal threshold
