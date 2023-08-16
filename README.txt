@@ -1,1 +1,1 @@
-In this project I worked with the ham/spam dataset, when I implemented the LogisticRegression class and plotted the ROC CURVE in order to choose the optimal threshold
+This project centers on analyzing the ham/spam dataset using machine learning techniques. A custom LogisticRegression class was developed to classify the data. To fine-tune the model's performance and select the best decision boundary, the ROC Curve was plotted, aiding in the determination of the optimal threshold for classification.
