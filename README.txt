@@ -1,4 +1,4 @@
-## 📩 Ham/Spam Classifier: Machine Learning Approach
+#📩 Ham/Spam Classifier: Machine Learning Approach
 
 
 Harness the power of Machine Learning to classify messages as either ham (legitimate) or spam, using a custom-built Logistic Regression model.
